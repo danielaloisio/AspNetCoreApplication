@@ -1,0 +1,14 @@
+C:\projetos-c#\AspNetCoreApplication.Api\AspNetCoreApplication.VM\bin\Debug\netcoreapp1.1\AspNetCoreApplication.VM.deps.json
+C:\projetos-c#\AspNetCoreApplication.Api\AspNetCoreApplication.VM\bin\Debug\netcoreapp1.1\AspNetCoreApplication.VM.dll
+C:\projetos-c#\AspNetCoreApplication.Api\AspNetCoreApplication.VM\bin\Debug\netcoreapp1.1\AspNetCoreApplication.VM.pdb
+C:\projetos-c#\AspNetCoreApplication.Api\AspNetCoreApplication.VM\obj\Debug\netcoreapp1.1\AspNetCoreApplication.VM.csprojResolveAssemblyReference.cache
+C:\projetos-c#\AspNetCoreApplication.Api\AspNetCoreApplication.VM\obj\Debug\netcoreapp1.1\AspNetCoreApplication.VM.AssemblyInfo.cs
+C:\projetos-c#\AspNetCoreApplication.Api\AspNetCoreApplication.VM\obj\Debug\netcoreapp1.1\AspNetCoreApplication.VM.dll
+C:\projetos-c#\AspNetCoreApplication.Api\AspNetCoreApplication.VM\obj\Debug\netcoreapp1.1\AspNetCoreApplication.VM.pdb
+C:\projetos-c#\AspNetCoreApplication\AspNetCoreApplication.VM\bin\Debug\netcoreapp1.1\AspNetCoreApplication.VM.deps.json
+C:\projetos-c#\AspNetCoreApplication\AspNetCoreApplication.VM\bin\Debug\netcoreapp1.1\AspNetCoreApplication.VM.dll
+C:\projetos-c#\AspNetCoreApplication\AspNetCoreApplication.VM\bin\Debug\netcoreapp1.1\AspNetCoreApplication.VM.pdb
+C:\projetos-c#\AspNetCoreApplication\AspNetCoreApplication.VM\obj\Debug\netcoreapp1.1\AspNetCoreApplication.VM.csprojResolveAssemblyReference.cache
+C:\projetos-c#\AspNetCoreApplication\AspNetCoreApplication.VM\obj\Debug\netcoreapp1.1\AspNetCoreApplication.VM.AssemblyInfo.cs
+C:\projetos-c#\AspNetCoreApplication\AspNetCoreApplication.VM\obj\Debug\netcoreapp1.1\AspNetCoreApplication.VM.dll
+C:\projetos-c#\AspNetCoreApplication\AspNetCoreApplication.VM\obj\Debug\netcoreapp1.1\AspNetCoreApplication.VM.pdb

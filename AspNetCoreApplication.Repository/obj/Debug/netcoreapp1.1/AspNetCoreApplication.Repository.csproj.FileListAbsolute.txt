@@ -1,0 +1,14 @@
+C:\projetos-c#\AspNetCoreApplication.Api\AspNetCoreApplication.Repository\bin\Debug\netcoreapp1.1\AspNetCoreApplication.Repository.deps.json
+C:\projetos-c#\AspNetCoreApplication.Api\AspNetCoreApplication.Repository\bin\Debug\netcoreapp1.1\AspNetCoreApplication.Repository.dll
+C:\projetos-c#\AspNetCoreApplication.Api\AspNetCoreApplication.Repository\bin\Debug\netcoreapp1.1\AspNetCoreApplication.Repository.pdb
+C:\projetos-c#\AspNetCoreApplication.Api\AspNetCoreApplication.Repository\obj\Debug\netcoreapp1.1\AspNetCoreApplication.Repository.csprojResolveAssemblyReference.cache
+C:\projetos-c#\AspNetCoreApplication.Api\AspNetCoreApplication.Repository\obj\Debug\netcoreapp1.1\AspNetCoreApplication.Repository.AssemblyInfo.cs
+C:\projetos-c#\AspNetCoreApplication.Api\AspNetCoreApplication.Repository\obj\Debug\netcoreapp1.1\AspNetCoreApplication.Repository.dll
+C:\projetos-c#\AspNetCoreApplication.Api\AspNetCoreApplication.Repository\obj\Debug\netcoreapp1.1\AspNetCoreApplication.Repository.pdb
+C:\projetos-c#\AspNetCoreApplication\AspNetCoreApplication.Repository\bin\Debug\netcoreapp1.1\AspNetCoreApplication.Repository.deps.json
+C:\projetos-c#\AspNetCoreApplication\AspNetCoreApplication.Repository\bin\Debug\netcoreapp1.1\AspNetCoreApplication.Repository.dll
+C:\projetos-c#\AspNetCoreApplication\AspNetCoreApplication.Repository\bin\Debug\netcoreapp1.1\AspNetCoreApplication.Repository.pdb
+C:\projetos-c#\AspNetCoreApplication\AspNetCoreApplication.Repository\obj\Debug\netcoreapp1.1\AspNetCoreApplication.Repository.csprojResolveAssemblyReference.cache
+C:\projetos-c#\AspNetCoreApplication\AspNetCoreApplication.Repository\obj\Debug\netcoreapp1.1\AspNetCoreApplication.Repository.AssemblyInfo.cs
+C:\projetos-c#\AspNetCoreApplication\AspNetCoreApplication.Repository\obj\Debug\netcoreapp1.1\AspNetCoreApplication.Repository.dll
+C:\projetos-c#\AspNetCoreApplication\AspNetCoreApplication.Repository\obj\Debug\netcoreapp1.1\AspNetCoreApplication.Repository.pdb

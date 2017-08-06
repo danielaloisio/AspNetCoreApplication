@@ -1,0 +1,14 @@
+C:\projetos-c#\AspNetCoreApplication.Api\AspNetCoreApplication.Data\bin\Debug\netcoreapp1.1\AspNetCoreApplication.Data.deps.json
+C:\projetos-c#\AspNetCoreApplication.Api\AspNetCoreApplication.Data\bin\Debug\netcoreapp1.1\AspNetCoreApplication.Data.dll
+C:\projetos-c#\AspNetCoreApplication.Api\AspNetCoreApplication.Data\bin\Debug\netcoreapp1.1\AspNetCoreApplication.Data.pdb
+C:\projetos-c#\AspNetCoreApplication.Api\AspNetCoreApplication.Data\obj\Debug\netcoreapp1.1\AspNetCoreApplication.Data.csprojResolveAssemblyReference.cache
+C:\projetos-c#\AspNetCoreApplication.Api\AspNetCoreApplication.Data\obj\Debug\netcoreapp1.1\AspNetCoreApplication.Data.AssemblyInfo.cs
+C:\projetos-c#\AspNetCoreApplication.Api\AspNetCoreApplication.Data\obj\Debug\netcoreapp1.1\AspNetCoreApplication.Data.dll
+C:\projetos-c#\AspNetCoreApplication.Api\AspNetCoreApplication.Data\obj\Debug\netcoreapp1.1\AspNetCoreApplication.Data.pdb
+C:\projetos-c#\AspNetCoreApplication\AspNetCoreApplication.Data\bin\Debug\netcoreapp1.1\AspNetCoreApplication.Data.deps.json
+C:\projetos-c#\AspNetCoreApplication\AspNetCoreApplication.Data\bin\Debug\netcoreapp1.1\AspNetCoreApplication.Data.dll
+C:\projetos-c#\AspNetCoreApplication\AspNetCoreApplication.Data\bin\Debug\netcoreapp1.1\AspNetCoreApplication.Data.pdb
+C:\projetos-c#\AspNetCoreApplication\AspNetCoreApplication.Data\obj\Debug\netcoreapp1.1\AspNetCoreApplication.Data.csprojResolveAssemblyReference.cache
+C:\projetos-c#\AspNetCoreApplication\AspNetCoreApplication.Data\obj\Debug\netcoreapp1.1\AspNetCoreApplication.Data.AssemblyInfo.cs
+C:\projetos-c#\AspNetCoreApplication\AspNetCoreApplication.Data\obj\Debug\netcoreapp1.1\AspNetCoreApplication.Data.dll
+C:\projetos-c#\AspNetCoreApplication\AspNetCoreApplication.Data\obj\Debug\netcoreapp1.1\AspNetCoreApplication.Data.pdb

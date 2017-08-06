@@ -1,0 +1,14 @@
+C:\projetos-c#\AspNetCoreApplication.Api\AspNetCoreApplication.Helper\bin\Debug\netcoreapp1.1\AspNetCoreApplication.Helper.deps.json
+C:\projetos-c#\AspNetCoreApplication.Api\AspNetCoreApplication.Helper\bin\Debug\netcoreapp1.1\AspNetCoreApplication.Helper.dll
+C:\projetos-c#\AspNetCoreApplication.Api\AspNetCoreApplication.Helper\bin\Debug\netcoreapp1.1\AspNetCoreApplication.Helper.pdb
+C:\projetos-c#\AspNetCoreApplication.Api\AspNetCoreApplication.Helper\obj\Debug\netcoreapp1.1\AspNetCoreApplication.Helper.csprojResolveAssemblyReference.cache
+C:\projetos-c#\AspNetCoreApplication.Api\AspNetCoreApplication.Helper\obj\Debug\netcoreapp1.1\AspNetCoreApplication.Helper.AssemblyInfo.cs
+C:\projetos-c#\AspNetCoreApplication.Api\AspNetCoreApplication.Helper\obj\Debug\netcoreapp1.1\AspNetCoreApplication.Helper.dll
+C:\projetos-c#\AspNetCoreApplication.Api\AspNetCoreApplication.Helper\obj\Debug\netcoreapp1.1\AspNetCoreApplication.Helper.pdb
+C:\projetos-c#\AspNetCoreApplication\AspNetCoreApplication.Helper\bin\Debug\netcoreapp1.1\AspNetCoreApplication.Helper.deps.json
+C:\projetos-c#\AspNetCoreApplication\AspNetCoreApplication.Helper\bin\Debug\netcoreapp1.1\AspNetCoreApplication.Helper.dll
+C:\projetos-c#\AspNetCoreApplication\AspNetCoreApplication.Helper\bin\Debug\netcoreapp1.1\AspNetCoreApplication.Helper.pdb
+C:\projetos-c#\AspNetCoreApplication\AspNetCoreApplication.Helper\obj\Debug\netcoreapp1.1\AspNetCoreApplication.Helper.csprojResolveAssemblyReference.cache
+C:\projetos-c#\AspNetCoreApplication\AspNetCoreApplication.Helper\obj\Debug\netcoreapp1.1\AspNetCoreApplication.Helper.AssemblyInfo.cs
+C:\projetos-c#\AspNetCoreApplication\AspNetCoreApplication.Helper\obj\Debug\netcoreapp1.1\AspNetCoreApplication.Helper.dll
+C:\projetos-c#\AspNetCoreApplication\AspNetCoreApplication.Helper\obj\Debug\netcoreapp1.1\AspNetCoreApplication.Helper.pdb
