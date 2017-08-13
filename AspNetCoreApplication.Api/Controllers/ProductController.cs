@@ -1,4 +1,6 @@
-﻿using AspNetCoreApplication.Service.Product;
+﻿using AspNetCoreApplication.Service;
+using AspNetCoreApplication.VM.Common;
+using AspNetCoreApplication.VM.Product.In;
 using AspNetCoreApplication.VM.Product.Out;
 using Microsoft.AspNetCore.Mvc;
 using System.Threading.Tasks;
@@ -18,9 +20,13 @@ namespace AspNetCoreApplication.Api.Controllers
         [HttpGet("GetProducts")]
         public async Task<ProductOutVM> GetProducts()
         {
-            ProductOutVM products = await _iProductService.GetProducts();
+           return await _iProductService.GetProducts();
+        }
 
-            return products;
+        [HttpPost("CreateProduct")]
+        public async Task<ResultServiceVM> CreateProduct([FromBody]ProductInVM productInVM)
+        {
+            return await _iProductService.CreateProduct(productInVM);
         }
     }
 }

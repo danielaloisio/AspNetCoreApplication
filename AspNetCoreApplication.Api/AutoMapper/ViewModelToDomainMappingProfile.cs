@@ -1,4 +1,6 @@
-﻿using AutoMapper;
+﻿using AspNetCoreApplication.Data.Model;
+using AspNetCoreApplication.VM.Product.In;
+using AutoMapper;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -17,7 +19,9 @@ namespace AspNetCoreApplication.Api.AutoMapper
         protected ViewModelToDomainMappingProfile(string profileName)
          : base(profileName)
         {
-            
+            #region[ Product ]
+            CreateMap<ProductInVM, Product>();
+            #endregion
         }
     }
 }

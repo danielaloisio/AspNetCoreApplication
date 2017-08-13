@@ -1,9 +1,10 @@
-﻿using AspNetCoreApplication.Data.Entities.Product.Model;
+﻿using AspNetCoreApplication.Data.Common;
+using AspNetCoreApplication.Data.Entities.Product.Model;
 using System.Collections.Generic;
 
 namespace AspNetCoreApplication.Data.Entities.Product.Out
 {
-    public class ProductOut
+    public class ProductOut : ResultService
     {
         public ProductOut()
         {

@@ -20,7 +20,6 @@
   
   <ItemGroup>
     <Folder Include="Entities\Product\In\" />
-    <Folder Include="Entities\Product\Validation\" />
   </ItemGroup>
 
 </Project>

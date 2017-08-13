@@ -1,5 +1,5 @@
 ﻿using AspNetCoreApplication.Repository;
-using AspNetCoreApplication.Service.Product;
+using AspNetCoreApplication.Service;
 using Microsoft.Extensions.DependencyInjection;
 
 namespace AspNetCoreApplication.Api.Configuration
