@@ -15,15 +15,15 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3-Data", "3-Data", "{8C66A9
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4-Helper", "4-Helper", "{3B22AEAC-5E45-48F8-A3A3-4235C65A1015}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetCoreApplication.VM", "AspNetCoreApplication.VM\AspNetCoreApplication.VM.csproj", "{7D6C4257-5A8C-423B-8D7C-002D009CF693}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AspNetCoreApplication.VM", "AspNetCoreApplication.VM\AspNetCoreApplication.VM.csproj", "{7D6C4257-5A8C-423B-8D7C-002D009CF693}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetCoreApplication.Service", "AspNetCoreApplication.Service\AspNetCoreApplication.Service.csproj", "{0330B461-1EB8-4D65-AA65-C5FECF6F8CC9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AspNetCoreApplication.Service", "AspNetCoreApplication.Service\AspNetCoreApplication.Service.csproj", "{0330B461-1EB8-4D65-AA65-C5FECF6F8CC9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetCoreApplication.Repository", "AspNetCoreApplication.Repository\AspNetCoreApplication.Repository.csproj", "{262FFA3D-4BDD-4991-9E36-167D6E6FE703}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AspNetCoreApplication.Repository", "AspNetCoreApplication.Repository\AspNetCoreApplication.Repository.csproj", "{262FFA3D-4BDD-4991-9E36-167D6E6FE703}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetCoreApplication.Data", "AspNetCoreApplication.Data\AspNetCoreApplication.Data.csproj", "{E35637B2-5171-4E5C-806D-0A9CD3A6672A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AspNetCoreApplication.Data", "AspNetCoreApplication.Data\AspNetCoreApplication.Data.csproj", "{E35637B2-5171-4E5C-806D-0A9CD3A6672A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetCoreApplication.Helper", "AspNetCoreApplication.Helper\AspNetCoreApplication.Helper.csproj", "{A11E1A53-61A6-4C9F-8713-F2855A4B43FC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AspNetCoreApplication.Helper", "AspNetCoreApplication.Helper\AspNetCoreApplication.Helper.csproj", "{A11E1A53-61A6-4C9F-8713-F2855A4B43FC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

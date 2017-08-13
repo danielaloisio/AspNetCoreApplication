@@ -1,7 +1,13 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>netcoreapp1.1</TargetFramework>
   </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Product\In\" />
+    <Folder Include="Product\Model\" />
+    <Folder Include="Product\Out\" />
+  </ItemGroup>
 
 </Project>
