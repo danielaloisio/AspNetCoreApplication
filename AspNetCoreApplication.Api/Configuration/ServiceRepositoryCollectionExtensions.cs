@@ -1,8 +1,6 @@
-﻿using Microsoft.Extensions.DependencyInjection;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+﻿using AspNetCoreApplication.Repository;
+using AspNetCoreApplication.Service.Product;
+using Microsoft.Extensions.DependencyInjection;
 
 namespace AspNetCoreApplication.Api.Configuration
 {
@@ -12,6 +10,9 @@ namespace AspNetCoreApplication.Api.Configuration
            this IServiceCollection services)
         {
             //Add service and repositories
+            services.AddTransient<IProductService, ProductService>();
+
+            services.AddTransient<IProductRepository, ProductRepository>();
 
             return services;
         }

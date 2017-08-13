@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace AspNetCoreApplication.Data.Model
+﻿namespace AspNetCoreApplication.Data.Model
 {
     public class Product
     {

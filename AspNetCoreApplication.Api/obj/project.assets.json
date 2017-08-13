@@ -31,6 +31,18 @@
           "lib/netstandard1.3/AutoMapper.dll": {}
         }
       },
+      "FluentValidation/7.0.3": {
+        "type": "package",
+        "dependencies": {
+          "NETStandard.Library": "1.6.1"
+        },
+        "compile": {
+          "lib/netstandard1.0/FluentValidation.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard1.0/FluentValidation.dll": {}
+        }
+      },
       "Libuv/1.9.1": {
         "type": "package",
         "dependencies": {
@@ -1065,6 +1077,21 @@
           "lib/netstandard1.3/Microsoft.EntityFrameworkCore.dll": {}
         }
       },
+      "Microsoft.EntityFrameworkCore.Design/1.1.2": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.AspNetCore.Hosting.Abstractions": "1.1.1",
+          "Microsoft.EntityFrameworkCore.Relational.Design": "1.1.2",
+          "NETStandard.Library": "1.6.1",
+          "System.Collections.NonGeneric": "4.3.0"
+        },
+        "compile": {
+          "lib/netstandard1.3/Microsoft.EntityFrameworkCore.Design.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard1.3/Microsoft.EntityFrameworkCore.Design.dll": {}
+        }
+      },
       "Microsoft.EntityFrameworkCore.Relational/1.1.2": {
         "type": "package",
         "dependencies": {
@@ -1079,6 +1106,19 @@
         },
         "runtime": {
           "lib/netstandard1.3/Microsoft.EntityFrameworkCore.Relational.dll": {}
+        }
+      },
+      "Microsoft.EntityFrameworkCore.Relational.Design/1.1.2": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.Relational": "1.1.2",
+          "NETStandard.Library": "1.6.1"
+        },
+        "compile": {
+          "lib/netstandard1.3/Microsoft.EntityFrameworkCore.Relational.Design.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard1.3/Microsoft.EntityFrameworkCore.Relational.Design.dll": {}
         }
       },
       "Microsoft.EntityFrameworkCore.SqlServer/1.1.2": {
@@ -4039,6 +4079,52 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.XDocument.dll": {}
         }
+      },
+      "AspNetCoreApplication.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v1.1",
+        "dependencies": {
+          "FluentValidation": "7.0.3",
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "1.1.2",
+          "Microsoft.EntityFrameworkCore.Design": "1.1.2",
+          "Microsoft.EntityFrameworkCore.SqlServer": "1.1.2",
+          "Microsoft.NETCore.App": "1.1.2"
+        }
+      },
+      "AspNetCoreApplication.Helper/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v1.1",
+        "dependencies": {
+          "AutoMapper": "6.0.2",
+          "Microsoft.NETCore.App": "1.1.2"
+        }
+      },
+      "AspNetCoreApplication.Repository/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v1.1",
+        "dependencies": {
+          "AspNetCoreApplication.Data": "1.0.0",
+          "AspNetCoreApplication.Helper": "1.0.0",
+          "Microsoft.NETCore.App": "1.1.2"
+        }
+      },
+      "AspNetCoreApplication.Service/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v1.1",
+        "dependencies": {
+          "AspNetCoreApplication.Data": "1.0.0",
+          "AspNetCoreApplication.Helper": "1.0.0",
+          "AspNetCoreApplication.Repository": "1.0.0",
+          "AspNetCoreApplication.VM": "1.0.0",
+          "Microsoft.NETCore.App": "1.1.2"
+        }
+      },
+      "AspNetCoreApplication.VM/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v1.1",
+        "dependencies": {
+          "Microsoft.NETCore.App": "1.1.2"
+        }
       }
     }
   },
@@ -4056,6 +4142,19 @@
         "lib/netstandard1.1/AutoMapper.xml",
         "lib/netstandard1.3/AutoMapper.dll",
         "lib/netstandard1.3/AutoMapper.xml"
+      ]
+    },
+    "FluentValidation/7.0.3": {
+      "sha512": "QN9vi57t4y6eDxZbamTbf0oWjayCigbU6siL0YGK6Zpak+3Q+c5KDZd3mTG4eM6FJJYxdxjeR/3BICOt1OoBkQ==",
+      "type": "package",
+      "path": "fluentvalidation/7.0.3",
+      "files": [
+        "fluentvalidation.7.0.3.nupkg.sha512",
+        "fluentvalidation.nuspec",
+        "lib/net45/FluentValidation.dll",
+        "lib/net45/FluentValidation.xml",
+        "lib/netstandard1.0/FluentValidation.dll",
+        "lib/netstandard1.0/FluentValidation.xml"
       ]
     },
     "Libuv/1.9.1": {
@@ -4875,6 +4974,19 @@
         "microsoft.entityframeworkcore.nuspec"
       ]
     },
+    "Microsoft.EntityFrameworkCore.Design/1.1.2": {
+      "sha512": "TFbj0fFE5BWJptL0BKhYOED0QOqY4VxApeLn8r9q8cINxyEj0XgjORl/a3Cp96CeASE5zsQeyMwaQCBRH+roag==",
+      "type": "package",
+      "path": "microsoft.entityframeworkcore.design/1.1.2",
+      "files": [
+        "lib/net451/Microsoft.EntityFrameworkCore.Design.dll",
+        "lib/net451/Microsoft.EntityFrameworkCore.Design.xml",
+        "lib/netstandard1.3/Microsoft.EntityFrameworkCore.Design.dll",
+        "lib/netstandard1.3/Microsoft.EntityFrameworkCore.Design.xml",
+        "microsoft.entityframeworkcore.design.1.1.2.nupkg.sha512",
+        "microsoft.entityframeworkcore.design.nuspec"
+      ]
+    },
     "Microsoft.EntityFrameworkCore.Relational/1.1.2": {
       "sha512": "oiPXaIMk8cPbEmtcChzhPzM1ZyEYMoy8sMYWgWfv292Q0e0U2v7CIrtGylrORVZOA4lb9M0gWjbfKPtj7iDbxA==",
       "type": "package",
@@ -4886,6 +4998,19 @@
         "lib/netstandard1.3/Microsoft.EntityFrameworkCore.Relational.xml",
         "microsoft.entityframeworkcore.relational.1.1.2.nupkg.sha512",
         "microsoft.entityframeworkcore.relational.nuspec"
+      ]
+    },
+    "Microsoft.EntityFrameworkCore.Relational.Design/1.1.2": {
+      "sha512": "pu2Jxndzv3slY6Ch9mdqVfL3AFhH5XzM02Rrnf9h5lKoViprYx1O+nNqT3BxmGrPkYadY9OddG2b9+sUO3Xuzw==",
+      "type": "package",
+      "path": "microsoft.entityframeworkcore.relational.design/1.1.2",
+      "files": [
+        "lib/net451/Microsoft.EntityFrameworkCore.Relational.Design.dll",
+        "lib/net451/Microsoft.EntityFrameworkCore.Relational.Design.xml",
+        "lib/netstandard1.3/Microsoft.EntityFrameworkCore.Relational.Design.dll",
+        "lib/netstandard1.3/Microsoft.EntityFrameworkCore.Relational.Design.xml",
+        "microsoft.entityframeworkcore.relational.design.1.1.2.nupkg.sha512",
+        "microsoft.entityframeworkcore.relational.design.nuspec"
       ]
     },
     "Microsoft.EntityFrameworkCore.SqlServer/1.1.2": {
@@ -10528,10 +10653,37 @@
         "system.xml.xpath.xdocument.4.0.1.nupkg.sha512",
         "system.xml.xpath.xdocument.nuspec"
       ]
+    },
+    "AspNetCoreApplication.Data/1.0.0": {
+      "type": "project",
+      "path": "../AspNetCoreApplication.Data/AspNetCoreApplication.Data.csproj",
+      "msbuildProject": "../AspNetCoreApplication.Data/AspNetCoreApplication.Data.csproj"
+    },
+    "AspNetCoreApplication.Helper/1.0.0": {
+      "type": "project",
+      "path": "../AspNetCoreApplication.Helper/AspNetCoreApplication.Helper.csproj",
+      "msbuildProject": "../AspNetCoreApplication.Helper/AspNetCoreApplication.Helper.csproj"
+    },
+    "AspNetCoreApplication.Repository/1.0.0": {
+      "type": "project",
+      "path": "../AspNetCoreApplication.Repository/AspNetCoreApplication.Repository.csproj",
+      "msbuildProject": "../AspNetCoreApplication.Repository/AspNetCoreApplication.Repository.csproj"
+    },
+    "AspNetCoreApplication.Service/1.0.0": {
+      "type": "project",
+      "path": "../AspNetCoreApplication.Service/AspNetCoreApplication.Service.csproj",
+      "msbuildProject": "../AspNetCoreApplication.Service/AspNetCoreApplication.Service.csproj"
+    },
+    "AspNetCoreApplication.VM/1.0.0": {
+      "type": "project",
+      "path": "../AspNetCoreApplication.VM/AspNetCoreApplication.VM.csproj",
+      "msbuildProject": "../AspNetCoreApplication.VM/AspNetCoreApplication.VM.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v1.1": [
+      "AspNetCoreApplication.Service >= 1.0.0",
+      "AspNetCoreApplication.VM >= 1.0.0",
       "AutoMapper >= 6.0.2",
       "Microsoft.ApplicationInsights.AspNetCore >= 2.0.0",
       "Microsoft.AspNetCore >= 1.1.2",
@@ -10561,7 +10713,14 @@
       ],
       "frameworks": {
         "netcoreapp1.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\projetos-c#\\AspNetCoreApplication\\AspNetCoreApplication.Service\\AspNetCoreApplication.Service.csproj": {
+              "projectPath": "C:\\projetos-c#\\AspNetCoreApplication\\AspNetCoreApplication.Service\\AspNetCoreApplication.Service.csproj"
+            },
+            "C:\\projetos-c#\\AspNetCoreApplication\\AspNetCoreApplication.VM\\AspNetCoreApplication.VM.csproj": {
+              "projectPath": "C:\\projetos-c#\\AspNetCoreApplication\\AspNetCoreApplication.VM\\AspNetCoreApplication.VM.csproj"
+            }
+          }
         }
       }
     },

@@ -1,12 +1,19 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Text;
 using System.Threading.Tasks;
+using AspNetCoreApplication.Data;
 
-namespace AspNetCoreApplication.Repository.Repository.Generic
+namespace AspNetCoreApplication.Repository
 {
     public class RepositoryGeneric<TEntity> : IRepositoryGeneric<TEntity> where TEntity : class
     {
+        private readonly ApplicationDbContext context;
+
+        public RepositoryGeneric(ApplicationDbContext context)
+        {
+            this.context = context;
+        }
+
         public TEntity FindById(params object[] keyValues)
         {
             throw new NotImplementedException();

@@ -4,4 +4,9 @@
     <TargetFramework>netcoreapp1.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\AspNetCoreApplication.Data\AspNetCoreApplication.Data.csproj" />
+    <ProjectReference Include="..\AspNetCoreApplication.Helper\AspNetCoreApplication.Helper.csproj" />
+  </ItemGroup>
+
 </Project>

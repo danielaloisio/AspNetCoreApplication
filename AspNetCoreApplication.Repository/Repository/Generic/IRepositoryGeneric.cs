@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AspNetCoreApplication.Repository.Repository.Generic
+namespace AspNetCoreApplication.Repository
 {
     public interface IRepositoryGeneric<TEntity> where TEntity : class
     {

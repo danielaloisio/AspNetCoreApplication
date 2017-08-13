@@ -12,3 +12,7 @@ C:\projetos-c#\AspNetCoreApplication\AspNetCoreApplication.Repository\obj\Debug\
 C:\projetos-c#\AspNetCoreApplication\AspNetCoreApplication.Repository\obj\Debug\netcoreapp1.1\AspNetCoreApplication.Repository.AssemblyInfo.cs
 C:\projetos-c#\AspNetCoreApplication\AspNetCoreApplication.Repository\obj\Debug\netcoreapp1.1\AspNetCoreApplication.Repository.dll
 C:\projetos-c#\AspNetCoreApplication\AspNetCoreApplication.Repository\obj\Debug\netcoreapp1.1\AspNetCoreApplication.Repository.pdb
+C:\projetos-c#\AspNetCoreApplication\AspNetCoreApplication.Repository\bin\Debug\netcoreapp1.1\AspNetCoreApplication.Data.dll
+C:\projetos-c#\AspNetCoreApplication\AspNetCoreApplication.Repository\bin\Debug\netcoreapp1.1\AspNetCoreApplication.Helper.dll
+C:\projetos-c#\AspNetCoreApplication\AspNetCoreApplication.Repository\bin\Debug\netcoreapp1.1\AspNetCoreApplication.Data.pdb
+C:\projetos-c#\AspNetCoreApplication\AspNetCoreApplication.Repository\bin\Debug\netcoreapp1.1\AspNetCoreApplication.Helper.pdb

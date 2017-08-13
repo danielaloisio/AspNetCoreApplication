@@ -12,3 +12,11 @@ C:\projetos-c#\AspNetCoreApplication\AspNetCoreApplication.Service\obj\Debug\net
 C:\projetos-c#\AspNetCoreApplication\AspNetCoreApplication.Service\obj\Debug\netcoreapp1.1\AspNetCoreApplication.Service.AssemblyInfo.cs
 C:\projetos-c#\AspNetCoreApplication\AspNetCoreApplication.Service\obj\Debug\netcoreapp1.1\AspNetCoreApplication.Service.dll
 C:\projetos-c#\AspNetCoreApplication\AspNetCoreApplication.Service\obj\Debug\netcoreapp1.1\AspNetCoreApplication.Service.pdb
+C:\projetos-c#\AspNetCoreApplication\AspNetCoreApplication.Service\bin\Debug\netcoreapp1.1\AspNetCoreApplication.VM.dll
+C:\projetos-c#\AspNetCoreApplication\AspNetCoreApplication.Service\bin\Debug\netcoreapp1.1\AspNetCoreApplication.VM.pdb
+C:\projetos-c#\AspNetCoreApplication\AspNetCoreApplication.Service\bin\Debug\netcoreapp1.1\AspNetCoreApplication.Data.dll
+C:\projetos-c#\AspNetCoreApplication\AspNetCoreApplication.Service\bin\Debug\netcoreapp1.1\AspNetCoreApplication.Helper.dll
+C:\projetos-c#\AspNetCoreApplication\AspNetCoreApplication.Service\bin\Debug\netcoreapp1.1\AspNetCoreApplication.Repository.dll
+C:\projetos-c#\AspNetCoreApplication\AspNetCoreApplication.Service\bin\Debug\netcoreapp1.1\AspNetCoreApplication.Data.pdb
+C:\projetos-c#\AspNetCoreApplication\AspNetCoreApplication.Service\bin\Debug\netcoreapp1.1\AspNetCoreApplication.Helper.pdb
+C:\projetos-c#\AspNetCoreApplication\AspNetCoreApplication.Service\bin\Debug\netcoreapp1.1\AspNetCoreApplication.Repository.pdb

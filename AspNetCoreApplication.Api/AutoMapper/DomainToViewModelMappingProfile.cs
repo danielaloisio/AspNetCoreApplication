@@ -1,8 +1,8 @@
-﻿using AutoMapper;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+﻿using AspNetCoreApplication.Data.Entities.Product.Model;
+using AspNetCoreApplication.Data.Entities.Product.Out;
+using AspNetCoreApplication.VM.Product.Model;
+using AspNetCoreApplication.VM.Product.Out;
+using AutoMapper;
 
 namespace AspNetCoreApplication.Api.AutoMapper
 {
@@ -17,7 +17,10 @@ namespace AspNetCoreApplication.Api.AutoMapper
         protected DomainToViewModelMappingProfile(string profileName)
          : base(profileName)
         {
-            
+            #region[ Product ]
+            CreateMap<ProductModel, ProductVM>();
+            CreateMap<ProductOut, ProductOutVM>();
+            #endregion
         }
     }
 }

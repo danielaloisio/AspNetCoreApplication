@@ -6,8 +6,6 @@
 
   <ItemGroup>
     <Folder Include="Product\In\" />
-    <Folder Include="Product\Model\" />
-    <Folder Include="Product\Out\" />
   </ItemGroup>
 
 </Project>
